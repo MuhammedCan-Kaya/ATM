@@ -38,7 +38,6 @@ public class Main {
                             case 4:
                                 System.out.print(" Çıkış yapılıyor. İyi günler dileriz. ");
                                 right -= 3;
-                                break;
                         }
                     } while (secim != 4);
                     break;
